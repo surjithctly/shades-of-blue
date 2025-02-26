@@ -1,6 +1,6 @@
 {
-  "name": "shades-of-blue",
-  "displayName": "Shades of Blue",
+  "name": "shades-of-blue-night",
+  "displayName": "Shades of Night Blue",
   "publisher": "surjithctly",
   "license": "MIT",
   "repository": {
@@ -18,9 +18,9 @@
   "contributes": {
     "themes": [
       {
-        "label": "Shades of Blue",
+        "label": "Shades of Night Blue",
         "uiTheme": "hc-black",
-        "path": "./themes/shades-of-blue-color-theme.json"
+        "path": "./themes/shades-of-night-blue-color-theme.json"
       }
     ]
   }

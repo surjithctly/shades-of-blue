@@ -1,5 +1,5 @@
 {
-  "name": "Shades of Blue",
+  "name": "Shades of Night Blue",
   "semanticHighlighting": true,
 
   "tokenColors": [
@@ -632,8 +632,8 @@
     "tab.unfocusedInactiveModifiedBorder": "#904348",
     "editor.background": "#292D3E",
     "editor.foreground": "#A6ACCD",
-    "editorLineNumber.foreground": "#3A3F58",
-    "editorLineNumber.activeForeground": "#757CA1",
+    "editorLineNumber.foreground": "#6c6c92",
+    "editorLineNumber.activeForeground": "#9999b6",
     "editorCursor.foreground": "#FFCC00",
     "editor.selectionBackground": "#717CB450",
     "editor.selectionHighlightBackground": "#FFCC0020",
