@@ -2,13 +2,14 @@
   "name": "shades-of-blue-night",
   "displayName": "Shades of Night Blue",
   "publisher": "surjithctly",
+  "icon": "icon.png",
   "license": "MIT",
   "repository": {
     "type": "git",
     "url": "https://github.com/surjithctly/shades-of-blue"
   },
   "description": "Shades of Blue is a VS Code Color Theme inspired from legacy material theme palenight high contrast",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "engines": {
     "vscode": "^1.97.0"
   },
@@ -19,7 +20,7 @@
     "themes": [
       {
         "label": "Shades of Night Blue",
-        "uiTheme": "hc-black",
+        "uiTheme": "vs-dark",
         "path": "./themes/shades-of-night-blue-color-theme.json"
       }
     ]

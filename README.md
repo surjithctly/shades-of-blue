@@ -1,16 +1,25 @@
-# shades-of-blue README
+# Shades of Night Blue Theme
 
-## Working with Markdown
+Shades of Blue is a VS Code Color Theme inspired from legacy material theme palenight high contrast
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+## Screenshots
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
+![Shades of Blue](https://raw.githubusercontent.com/surjithctly/shades-of-blue/main/images/screenshot.png)
 
-## For more information
+## Installation
 
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+1. Open the command palette in VS Code (Ctrl+Shift+P)
+2. Select Install Extension
+3. Search for Shades of Blue
+4. Click Install
+5. Reload VS Code
 
-**Enjoy!**
+## Usage
+
+To activate the theme, go to the command palette and select "Preferences: Color Theme". Choose "Shades of Night Blue" from the list.
+
+## License
+
+MIT License
+
+Copyright (c) 2022 Surjith S M
