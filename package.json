@@ -1,0 +1,23 @@
+{
+  "name": "shades-of-blue",
+  "displayName": "Shades of Blue",
+  "publisher": "surjithctly",
+  "license": "MIT",
+  "description": "Shades of Blue is a VS Code Color Theme inspired from legacy material theme palenight high contrast",
+  "version": "0.1.0",
+  "engines": {
+    "vscode": "^1.97.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Shades of Blue",
+        "uiTheme": "hc-black",
+        "path": "./themes/shades-of-blue-color-theme.json"
+      }
+    ]
+  }
+}
